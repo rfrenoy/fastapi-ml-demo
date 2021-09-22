@@ -1,0 +1,1 @@
+Implementation of [this blog post](https://testdriven.io/blog/fastapi-machine-learning/) by Michael Herman.
